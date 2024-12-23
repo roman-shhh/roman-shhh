@@ -37,7 +37,14 @@ I'm a full stack developer.
 <img src="https://github.com/user-attachments/assets/3325542d-eca4-4819-b3dc-0ad1e50af654" alt="IBM Front-End Developer Professional Certificate" height="100"/>
 <img src="https://github.com/user-attachments/assets/caa8066e-f494-4a7b-b79a-80197a311344" alt="IBM Back-end JavaScript Developer Professional Certificate" height="100"/>
 
-[Meta Front-End Developer Certificate](https://coursera.org/share/658c2b341ce568d65cfd9cf9cf8631f9)
+### Certificates
+[Meta Front-End Developer](https://coursera.org/share/658c2b341ce568d65cfd9cf9cf8631f9) | 
+[Meta Back-End Developer](https://coursera.org/share/1f7057e6d034d4363d8ed5498e05373a) | 
+[Meta Database Engineer](https://coursera.org/share/a835d6ab357f3910b7819f9b39f7c591) | 
+[Meta React Native](https://coursera.org/share/1e4befc8149a7a5653d15d92835ef37c)
+
+[IBM Front-End Developer](https://coursera.org/share/e8c08257559b4ceeaa803feebc79d7cb) | 
+[IBM Back-end JavaScript Developer](https://coursera.org/share/51667bf22336fd9cfd50a912e979cc06)
 
 [Credly Badges](https://www.credly.com/users/roman-sheremetiev)
 
