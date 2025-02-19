@@ -45,7 +45,8 @@ I'm a full stack developer.
 [Meta React Native](https://coursera.org/share/1e4befc8149a7a5653d15d92835ef37c)
 
 [IBM Front-End Developer](https://coursera.org/share/e8c08257559b4ceeaa803feebc79d7cb) | 
-[IBM Back-end JavaScript Developer](https://coursera.org/share/51667bf22336fd9cfd50a912e979cc06)
+[IBM Back-end JavaScript Developer](https://coursera.org/share/51667bf22336fd9cfd50a912e979cc06) |
+[IBM Back-End Development](https://coursera.org/share/94c09b4d1963f2e3241c8a8f9d9e230b)
 
 [Credly Badges](https://www.credly.com/users/roman-sheremetiev)
 
