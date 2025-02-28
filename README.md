@@ -30,6 +30,32 @@ I'm a full stack developer.
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black)
 
 ## 🤓 Education:
+
+### Certificates
+
+<details>
+  <summary>Front-End Developer</summary>
+  
+  [Meta Front-End Developer](https://coursera.org/share/658c2b341ce568d65cfd9cf9cf8631f9) \
+  [IBM Front-End Developer](https://coursera.org/share/e8c08257559b4ceeaa803feebc79d7cb)
+
+</details>
+
+<details>
+  <summary>Back-End Developer</summary>
+
+  [Meta Back-End Developer](https://coursera.org/share/1f7057e6d034d4363d8ed5498e05373a) \
+  [IBM Back-end JavaScript Developer](https://coursera.org/share/51667bf22336fd9cfd50a912e979cc06) \
+  [IBM Back-End Development](https://coursera.org/share/94c09b4d1963f2e3241c8a8f9d9e230b)
+</details>
+
+<details>
+  <summary>Additional</summary>
+
+  [Meta Database Engineer](https://coursera.org/share/a835d6ab357f3910b7819f9b39f7c591) \
+  [Meta React Native](https://coursera.org/share/1e4befc8149a7a5653d15d92835ef37c)
+</details>
+
 <img src="https://github.com/user-attachments/assets/49988db2-6b82-4371-8f0a-ecf3ff852f98" alt="Meta Front-End Developer Certificate" height="100"/>
 <img src="https://github.com/user-attachments/assets/f54d98aa-2063-4e64-b266-94977d0d90b4" alt="Meta Back-End Developer Certificate" height="100"/>
 <img src="https://github.com/user-attachments/assets/40538292-4fa7-4f4e-80f0-183893fa665b" alt="Meta Full-Stack Engineer Certificate" height="100"/>
@@ -37,16 +63,6 @@ I'm a full stack developer.
 <img src="https://github.com/user-attachments/assets/3b070eb5-0244-43b9-8c72-7ac4dc2c88bb" alt="Meta Generalist Software Engineer Certificate" height="100"/>
 <img src="https://github.com/user-attachments/assets/3325542d-eca4-4819-b3dc-0ad1e50af654" alt="IBM Front-End Developer Professional Certificate" height="100"/>
 <img src="https://github.com/user-attachments/assets/caa8066e-f494-4a7b-b79a-80197a311344" alt="IBM Back-end JavaScript Developer Professional Certificate" height="100"/>
-
-### Certificates
-[Meta Front-End Developer](https://coursera.org/share/658c2b341ce568d65cfd9cf9cf8631f9) | 
-[Meta Back-End Developer](https://coursera.org/share/1f7057e6d034d4363d8ed5498e05373a) | 
-[Meta Database Engineer](https://coursera.org/share/a835d6ab357f3910b7819f9b39f7c591) | 
-[Meta React Native](https://coursera.org/share/1e4befc8149a7a5653d15d92835ef37c)
-
-[IBM Front-End Developer](https://coursera.org/share/e8c08257559b4ceeaa803feebc79d7cb) | 
-[IBM Back-end JavaScript Developer](https://coursera.org/share/51667bf22336fd9cfd50a912e979cc06) |
-[IBM Back-End Development](https://coursera.org/share/94c09b4d1963f2e3241c8a8f9d9e230b)
 
 [Credly Badges](https://www.credly.com/users/roman-sheremetiev)
 
