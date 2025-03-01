@@ -79,8 +79,8 @@ I'm a full stack developer.
 | [ToDo List](https://github.com/roman-shhh/vue-todo-app)                         | Vue.js          |
 | [Crypto App](https://github.com/roman-shhh/react-demo-crypto-app)               | React           |
 | [Intagram clone](https://github.com/roman-shhh/react-insta-clone)               | React, Firebase |
-| [Random Color Generator](https://roman-shhh.github.io/random-color-react-demo/) | React           |
-| [Sticky Notes](https://roman-shhh.github.io/sticky-notes-react-demo/)           | React           |
+| [Random Color Generator](https://github.com/roman-shhh/random-color-react-demo) | React           |
+| [Sticky Notes](https://github.com/roman-shhh/sticky-notes-react-demo)           | React           |
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roman-shhh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
