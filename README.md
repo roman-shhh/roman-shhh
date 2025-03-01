@@ -50,6 +50,12 @@ I'm a full stack developer.
 </details>
 
 <details>
+  <summary>Full-Stack Developer</summary>
+
+  [IBM Full-Stack JavaScript Developer](https://coursera.org/share/59dd9ef1909b72d7dc4a8070a4f55a3c)
+</details>
+
+<details>
   <summary>Additional</summary>
 
   [Meta Database Engineer](https://coursera.org/share/a835d6ab357f3910b7819f9b39f7c591) \
@@ -63,6 +69,7 @@ I'm a full stack developer.
 <img src="https://github.com/user-attachments/assets/3b070eb5-0244-43b9-8c72-7ac4dc2c88bb" alt="Meta Generalist Software Engineer Certificate" height="100"/>
 <img src="https://github.com/user-attachments/assets/3325542d-eca4-4819-b3dc-0ad1e50af654" alt="IBM Front-End Developer Professional Certificate" height="100"/>
 <img src="https://github.com/user-attachments/assets/caa8066e-f494-4a7b-b79a-80197a311344" alt="IBM Back-end JavaScript Developer Professional Certificate" height="100"/>
+<img src="https://github.com/user-attachments/assets/d58d9063-cdbc-44ae-9f38-39a879e1bb06" alt="IBM Full-Stack JavaScript Developer Professional Certificate" height="100"/>
 
 [Credly Badges](https://www.credly.com/users/roman-sheremetiev)
 
