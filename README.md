@@ -52,7 +52,8 @@ I'm a full stack developer.
 <details>
   <summary>Full-Stack Developer</summary>
 
-  [IBM Full-Stack JavaScript Developer](https://coursera.org/share/59dd9ef1909b72d7dc4a8070a4f55a3c)
+  [IBM Full-Stack JavaScript Developer](https://coursera.org/share/59dd9ef1909b72d7dc4a8070a4f55a3c) \
+  [IBM Full Stack Software Developer Professional Certificate](https://coursera.org/share/03d41fcc0c85bd7f0d52adb690d525a5)
 </details>
 
 <details>
@@ -70,6 +71,7 @@ I'm a full stack developer.
 <img src="https://github.com/user-attachments/assets/3325542d-eca4-4819-b3dc-0ad1e50af654" alt="IBM Front-End Developer Professional Certificate" height="100"/>
 <img src="https://github.com/user-attachments/assets/caa8066e-f494-4a7b-b79a-80197a311344" alt="IBM Back-end JavaScript Developer Professional Certificate" height="100"/>
 <img src="https://github.com/user-attachments/assets/d58d9063-cdbc-44ae-9f38-39a879e1bb06" alt="IBM Full-Stack JavaScript Developer Professional Certificate" height="100"/>
+<img src="https://github.com/user-attachments/assets/aa9d858a-5a4f-43be-aa04-ff4c6cd7e182" alt="IBM Full Stack Software Developer Professional Certificate (V5)" height="100"/>
 
 [Credly Badges](https://www.credly.com/users/roman-sheremetiev)
 
