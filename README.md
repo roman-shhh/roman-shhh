@@ -89,7 +89,7 @@ I'm a full stack developer.
 
 ## Find me here:
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-sh-705b1b300)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-sheremetiev/)
 
 Available in: en, ru, es, pt
 
