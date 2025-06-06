@@ -37,7 +37,8 @@ I'm a full stack developer.
   <summary>Front-End Developer</summary>
   
   [Meta Front-End Developer](https://coursera.org/share/658c2b341ce568d65cfd9cf9cf8631f9) \
-  [IBM Front-End Developer](https://coursera.org/share/e8c08257559b4ceeaa803feebc79d7cb)
+  [IBM Front-End Developer](https://coursera.org/share/e8c08257559b4ceeaa803feebc79d7cb) \
+  [Microsoft Front-End Developer](https://coursera.org/share/9f0c3d47db35cfeb7f59b0caed97b2f6)
 
 </details>
 
