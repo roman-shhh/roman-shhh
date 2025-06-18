@@ -61,6 +61,7 @@ I'm a full stack developer.
 <details>
   <summary>Additional</summary>
 
+  [Google Cybersecurity](https://coursera.org/share/adc89faf50a42c367ebe74ebf6ac0c4f) \
   [Meta Database Engineer](https://coursera.org/share/a835d6ab357f3910b7819f9b39f7c591) \
   [Meta React Native](https://coursera.org/share/1e4befc8149a7a5653d15d92835ef37c)
 </details>
@@ -74,6 +75,10 @@ I'm a full stack developer.
 <img src="https://github.com/user-attachments/assets/caa8066e-f494-4a7b-b79a-80197a311344" alt="IBM Back-end JavaScript Developer Professional Certificate" height="100"/>
 <img src="https://github.com/user-attachments/assets/d58d9063-cdbc-44ae-9f38-39a879e1bb06" alt="IBM Full-Stack JavaScript Developer Professional Certificate" height="100"/>
 <img src="https://github.com/user-attachments/assets/aa9d858a-5a4f-43be-aa04-ff4c6cd7e182" alt="IBM Full Stack Software Developer Professional Certificate (V5)" height="100"/>
+<img src="https://github.com/user-attachments/assets/5fa936f7-44be-44a2-bf29-65e7068c80ff" alt="Google Cybersecurity" height="100"/>
+
+
+
 
 [Credly Badges](https://www.credly.com/users/roman-sheremetiev)
 
