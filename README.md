@@ -47,7 +47,8 @@ I'm a full stack developer.
 
   [Meta Back-End Developer](https://coursera.org/share/1f7057e6d034d4363d8ed5498e05373a) \
   [IBM Back-end JavaScript Developer](https://coursera.org/share/51667bf22336fd9cfd50a912e979cc06) \
-  [IBM Back-End Development](https://coursera.org/share/94c09b4d1963f2e3241c8a8f9d9e230b)
+  [IBM Back-End Development](https://coursera.org/share/94c09b4d1963f2e3241c8a8f9d9e230b) \
+  [Microsoft Back-End Developer](https://coursera.org/share/7430890dab78982629c9c24954ffa668)
 </details>
 
 <details>
