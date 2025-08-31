@@ -57,6 +57,7 @@ I'm a full stack developer.
   [Amazon Junior Software Developer](https://coursera.org/share/c929f6dae73142f1d73a58ce3d367d9f) \
   [IBM Full-Stack JavaScript Developer](https://coursera.org/share/59dd9ef1909b72d7dc4a8070a4f55a3c) \
   [IBM Full Stack Software Developer Professional Certificate](https://coursera.org/share/03d41fcc0c85bd7f0d52adb690d525a5)
+  [Microsoft Full-Stack Developer Professional Certificate](https://coursera.org/share/4a382fb8cb40caeacbe97d7ada3f37fd)
 </details>
 
 <details>
