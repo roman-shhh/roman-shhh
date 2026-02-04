@@ -33,6 +33,11 @@ I'm a full stack developer.
 
 ### Certificates
 
+<img height="200" src="https://github.com/user-attachments/assets/a2a7921b-5112-46e2-ac2d-927826b665a8" />
+
+[Mid-Level Javascript Developer - certificates.dev](https://certificates.dev/c/a0f52159-a4d3-476f-98ac-d0e5ed0e8410)
+
+
 <details>
   <summary>Front-End Developer</summary>
   
