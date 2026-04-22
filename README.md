@@ -85,7 +85,7 @@ I'm a full stack developer.
 <img src="https://github.com/user-attachments/assets/aa9d858a-5a4f-43be-aa04-ff4c6cd7e182" alt="IBM Full Stack Software Developer Professional Certificate (V5)" height="100"/>
 <img src="https://github.com/user-attachments/assets/5fa936f7-44be-44a2-bf29-65e7068c80ff" alt="Google Cybersecurity" height="100"/>
 <img src="https://github.com/user-attachments/assets/a34f0d88-c2a3-4b63-804a-16deba7c3eb9" alt="Google Cloud Cybersecurity" height="100" />
-
+<img src="https://github.com/user-attachments/assets/624bd3cc-ae34-4544-bafa-0edd617982e8" alt="Google Cloud Computing" height="100" />
 
 
 
